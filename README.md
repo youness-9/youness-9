@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm youness</h1>
 <h3 align="center">A passionate haking and cracking some programing(python)</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/152264278?s=400&u=249b761313d7e3e6b4acd089da8533dd5d4a0644&v=4" alt="youness-9" /> </p>
-
 
 - 🌱 I’m currently learning **c++,c#,flask,go,assembly**
 
